@@ -6,8 +6,8 @@ protocolo MQTT y crearás las salas que necesites para alojar los juegos.
 
 **EULERPONG**
 
-PROGRAMADO POR DEYORS
-Con el apoyo de compañeros de la Universidad Complutense de Madrid
+Programado por DEYORS, con el apoyo de compañeros de la Universidad 
+Complutense de Madrid.
 
 *INSTRUCCIONES DE EJECUCIÓN:*
 
