@@ -1,0 +1,8 @@
+
+¡Muy bien!
+
+Este juego consiste en el típico juego de Pong, adaptado por el protocolo MQTT para conectarte a un broker y jugar contra otra persona a través de Internet. 
+
+La programación de este juego no es definitiva ni está optimizada, asi que puede dar errores, sobre todo en la conexión al servidor MQTT. Si entiendes el código, ¡te animamos a adaptarlo y mejorarlo para lo que consideres necesario!
+
+Escribe en la siguiente línea la dirección del servidor MQTT al que te quieras conectar:

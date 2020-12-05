@@ -1,0 +1,9 @@
+
+¡Vamos a intentar jugar!
+
+Este juego está diseñado y programado por DEYORS, con la ayuda de compañeros de la Universidad Complutense de Madrid. 
+
+Escribe en la siguiente línea la opción que prefieras:
+
+[C] -> Crear una partida
+[U] -> Unise a una partida existente

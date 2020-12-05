@@ -1,0 +1,4 @@
+
+¡Bienvenido a EulerPong!
+Tu aventura está a punto de comezar.
+Escribe tu nombre:
