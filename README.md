@@ -5,19 +5,19 @@ Con los ficheros Cliente y Servidor te conectarás a un servidor de
 protocolo MQTT y crearás las salas que necesites para alojar los juegos.
 
 ¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬
-	                           EulerPong
+	                                          EulerPong
 ¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬
-		                      PROGRAMADO POR:
+		                   PROGRAMADO POR:
 
-                              DEYORS
-Con el apoyo de compañeros de la Universidad Complutense de Madrid
+                                                            DEYORS
+
+        Con el apoyo de compañeros de la Universidad Complutense de Madrid
 
 ==================================================================
-                    INSTRUCCIONES DE EJECUCIÓN:
+                                          INSTRUCCIONES DE EJECUCIÓN:
 
 
-1. Descague todas las bibliotecas necesarias: MQTT, PyGame y 
-Multiprocessing
+1. Descague todas las bibliotecas necesarias: MQTT, PyGame y Multiprocessing
 
 2. Ejecute el Servidor, preferiblemente desde entornos como el cmd o Linux, 
 ya que Anaconda, por ejemplo, no soporta el protocolo Multiprocessing.
