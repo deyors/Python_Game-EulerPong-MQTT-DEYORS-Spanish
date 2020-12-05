@@ -43,12 +43,13 @@ propios, y clasificamos ese acto como algo dañino para el aprendizaje y la
 evolución del conocimiento. Por favor, aproveche este programa para entender
 mejor como funciona el mundo, no para empeorarlo. 
 
-*PRESENTACIÓN:
+- Este contenido es 100% gratuito, pero puedes ayudarme a seguir subiendo material 
+donando lo que creas conveniente a mi Paypal: paypal.me/deyors
 
-Puede ver un vídeo introductorio sobre la inicialización correcta de este programa
+*PRESENTACIÓN:*
+
+Puedes ver un vídeo introductorio sobre la inicialización correcta de este programa
 donde se demuestra que funciona accediendo al siguiente enlace:
 
-Este contenido es 100% gratuito, pero puedes ayudarme a seguir subiendo material 
-donando lo que creas conveniente a mi Paypal: paypal.me/deyors
 
 
